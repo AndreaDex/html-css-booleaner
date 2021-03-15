@@ -22,9 +22,31 @@ h1{
 
 .Photo{
     margin-top: 10px;
-
 }
 
 .Photo_credit{
     font-size: 10px;
+}
+
+.highlight{
+    background-color: yellow;
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+    
+}
+
+thead{
+    background-color: #20a9e5;
+    color: white;
+}
+
+th, td{
+    text-align: left;
+}
+
+.color_row{
+    background-color: #b1e5f2;
 }
